@@ -1,6 +1,6 @@
 ### Olá 😄, bem-vindo ao meu perfil! Aqui estão alguns repositórios desenvolvidos de meus trabalhos universitários. Atualmente busco vaga de estágio na área de programação. 👋:blush:
    
-![Alt Text](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)  !.[Alt Text](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)  ![Alt Text](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
 
 <!--
 **MarceloAugustoMonteiro/MarceloAugustoMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
