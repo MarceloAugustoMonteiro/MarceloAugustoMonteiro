@@ -1,7 +1,6 @@
 ### Olá 😄, bem-vindo ao meu perfil! Aqui estão alguns repositórios desenvolvidos de meus trabalhos universitários. Atualmente busco vaga de estágio na área de programação. 👋:blush:
 
-:point_right:
-                                            ![Alt Text](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
+![Alt Text](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
 
 
 
