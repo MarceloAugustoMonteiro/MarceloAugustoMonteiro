@@ -1,5 +1,5 @@
 ### Olá 😄, bem-vindo ao meu perfil! Aqui estão alguns repositórios desenvolvidos de meus trabalhos universitários. 👋:blush:
-Site WordPress desenvolvido para testes: https://marceloaugustomonteiro.epizy.com/ :point_left:
+
 
 ![Alt Text](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
 
