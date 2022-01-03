@@ -1,4 +1,4 @@
-### Olá 😄, bem-vindo ao meu perfil! Aqui estão alguns repositórios desenvolvidos de meus trabalhos universitários. 👋:blush:
+### Olá 😄, bem-vindo ao meu perfil! <br /> Aqui estão alguns repositórios desenvolvidos de meus trabalhos universitários/estágios. 👋:blush:
 
 
 ![Alt Text](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
