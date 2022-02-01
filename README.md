@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo ao meu perfil! 😄:blush:
+### Olá, seja bem-vindo ao meu perfil! 😄
 
 
 ![Alt Text](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
