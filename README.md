@@ -1,4 +1,4 @@
-<h3 align="center">Seja bem-vindo! Meu nome é Marcelo Monteiro, desenvolvedor front-end 😄</h3>
+<h3 align="center">Seja bem-vindo! Meu nome é Marcelo, trabalho atualmente com desenvolvimento front-end 😄</h3>
 <div align="center">
   <a href="https://github.com/MarceloAugustoMonteiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloaugustomonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
