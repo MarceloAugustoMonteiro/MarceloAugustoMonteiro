@@ -1,5 +1,5 @@
 <h3 align="center">Seja bem-vindo! Meu nome é Marcelo, trabalho atualmente com desenvolvimento front-end com foco em e-commerce.</h3>
-<h4>Esses são alguns de meus projetos universitários/estágio.</h4>
+<h4 align="center">Esses são alguns de meus projetos universitários/estágio.</h4>
 <div align="center">
   <a href="https://github.com/MarceloAugustoMonteiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaugustomonteiro&layout=compact&langs_count=7&theme=dracula"/>
