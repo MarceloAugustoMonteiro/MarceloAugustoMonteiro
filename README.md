@@ -1,5 +1,5 @@
 <h3 align="center">Seja bem-vindo!</h3>
-<h3 align="center">Meu nome é Marcelo, trabalho atualmente com desenvolvimento front-end com foco em e-commerce.</h3>
+<h3 align="center">Trabalho atualmente com desenvolvimento front-end com foco em e-commerce.</h3>
 <h4 align="center">Estes são alguns dos meus projetos acadêmicos e de estágio.</h4>
 <h6 align="center">Os projetos profissionais se mantem privados.</h6>
 
