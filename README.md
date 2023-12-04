@@ -1,4 +1,5 @@
-<h3 align="center">Seja bem-vindo! Meu nome é Marcelo, trabalho atualmente com desenvolvimento front-end com foco em e-commerce.</h3>
+<h3 align="center">Seja bem-vindo!</h3>
+<h3 align="center">Meu nome é Marcelo, trabalho atualmente com desenvolvimento front-end com foco em e-commerce.</h3>
 <h4 align="center">Estes são alguns dos meus projetos acadêmicos e de estágio.</h4>
 <h6 align="center">Os projetos profissionais se mantem privados.</h6>
 
@@ -8,10 +9,10 @@
   </strong>
 </h4>
 <div align="center">
-  <h5>React</h5>
-  <h5>Typescript/JavaScript</h5>
-  <h5>CSS/SASS</h5>
-  <h5>VTEX CMS/iO (e-commerce)</h5>
+  <h5 style="margin: 5px;">React</h5>
+  <h5 style="margin: 5px;">Typescript/JavaScript</h5>
+  <h5 style="margin: 5px;">CSS/SASS</h5>
+  <h5 style="margin: 5px;">VTEX CMS/iO (e-commerce)</h5>
 </div>
 <div align="center">
   <a href="https://github.com/MarceloAugustoMonteiro">
