@@ -2,15 +2,17 @@
 <h4 align="center">Estes são alguns dos meus projetos acadêmicos e de estágio.</h4>
 <h6 align="center">Os projetos profissionais se mantem privados.</h6>
 
-<h5 align="center">Foco profissional em desenvolvimento front-end:</h6>
-<ul align="center">
-  <li>React</li>
-  <li>Typescript</li>
-  <li>JavaScript</li>
-  <li>CSS</li>
-  <li>SASS</li>
-  <li>VTEX CMS/iO (e-commerce)</li>
-</ul>
+<h4 align="center">
+  <strong>
+    Foco profissional em desenvolvimento front-end:
+  </strong>
+</h4>
+<div align="center">
+  <h5>React</h5>
+  <h5>Typescript/JavaScript</h5>
+  <h5>CSS/SASS</h5>
+  <h5>VTEX CMS/iO (e-commerce)</h5>
+</div>
 <div align="center">
   <a href="https://github.com/MarceloAugustoMonteiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaugustomonteiro&layout=compact&langs_count=7&theme=dracula"/>
