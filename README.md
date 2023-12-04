@@ -2,8 +2,8 @@
 <h4 align="center">Estes são alguns dos meus projetos acadêmicos e de estágio.</h4>
 <h6 align="center">Os projetos profissionais se mantem privados.</h6>
 
-<h6 align="center">Foco profissional em desenvolvimento front-end:</h6>
-<ul>
+<h5 align="center">Foco profissional em desenvolvimento front-end:</h6>
+<ul align="center">
   <li>React</li>
   <li>Typescript</li>
   <li>JavaScript</li>
