@@ -6,8 +6,8 @@
     Principais tecnologias o qual trabalho diariamente:
   </strong>
 </h4>
-<div align="center" style="margin: 19px 0 25px;">
-  <h5>React, Typescript/JavaScript, CSS/SASS, GraphQL/API Rest, VTEX CMS/iO (e-commerce).</h5>
+<div align="center">
+  <h5 style="margin: 19px 0 25px;">React, Typescript/JavaScript, CSS/SASS, GraphQL/API Rest, VTEX CMS/iO (e-commerce).</h5>
 </div>
 <div align="center">
   <a href="https://github.com/MarceloAugustoMonteiro">
