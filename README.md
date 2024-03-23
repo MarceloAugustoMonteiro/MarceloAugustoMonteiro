@@ -1,13 +1,12 @@
-<h3 align="center">Trabalho atualmente com desenvolvimento front-end com foco em e-commerce.</h3>
-<h4 align="center">Estes são alguns dos meus projetos acadêmicos e de estágio.</h4>
-<h6 align="center">Os projetos profissionais se mantem privados.</h6>
+<h4 align="center" style="margin: 0;">Estes são alguns de meus projetos acadêmicos e estágio.</h4>
+<h6 align="center" style="margin: 18px;">Os projetos profissionais se mantem privados.</h6>
 
-<h4 align="center">
+<h4 align="center" style="margin: 0;">
   <strong>
     Principais tecnologias o qual trabalho diariamente:
   </strong>
 </h4>
-<div align="center" style="margin: 5px;">
+<div align="center" style="margin: 19px 0 25px;">
   <h5>React, Typescript/JavaScript, CSS/SASS, GraphQL/API Rest, VTEX CMS/iO (e-commerce).</h5>
 </div>
 <div align="center">
