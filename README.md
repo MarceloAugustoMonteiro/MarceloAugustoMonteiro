@@ -14,8 +14,7 @@
 </p>
 <p align="left">
   :small_blue_diamond: React; <br>
-  :small_blue_diamond: Typescript; <br>
-  :small_blue_diamond: JavaScript; <br>
+  :small_blue_diamond: Typescript/JavaScript; <br>
   :small_blue_diamond: Node; <br>
   :small_blue_diamond: Css/Sass; <br>
   :small_blue_diamond: GraphQL/API Rest; <br>
