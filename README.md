@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  Se encontra disponível neste perfil alguns de meus projetos acadêmicos e estágio. Os projetos profissionais se mantem privados ou armazenados em outra plataforma.
+  Se encontra disponível neste perfil alguns de meus projetos acadêmicos e estágio. Os projetos profissionais se mantém privados ou armazenados em outra plataforma.
 </p>
 
 <br>
