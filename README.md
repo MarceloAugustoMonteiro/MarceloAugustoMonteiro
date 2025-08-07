@@ -16,13 +16,13 @@
   :small_blue_diamond: React; <br>
   :small_blue_diamond: Typescript/JavaScript; <br>
   :small_blue_diamond: Node; <br>
-  :small_blue_diamond: Css/Sass; <br>
+  :small_blue_diamond: CSS/SASS; <br>
   :small_blue_diamond: GraphQL/API Rest; <br>
   :small_blue_diamond: Vtex IO/CMS (e-commerce). <br>
 </p>
 
 <p align="left">
-  Se encontra disponível neste perfil alguns de meus projetos acadêmicos e estágio. Os projetos profissionais se mantém privados ou armazenados em outra plataforma.
+  Este perfil apresenta projetos acadêmicos e estudos realizados de forma independente. Os projetos profissionais, por envolverem direitos de propriedade intelectual de clientes ou da empresa, permanecem privados ou armazenados em outros perfis/plataformas.
 </p>
 
 <br>
