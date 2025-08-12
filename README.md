@@ -6,9 +6,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Olá, sou um desenvolvedor full-stack atuando no mercado de ecommerce. 
+  Olá, sou um desenvolvedor full-stack atuando no mercado de e-commerce. 
 </p>
-
+<!-- 
 <p align="left">
   :technologist: Principais tecnologias o qual trabalho diariamente:
 </p>
@@ -19,7 +19,7 @@
   :small_blue_diamond: CSS/SASS; <br>
   :small_blue_diamond: GraphQL/API Rest; <br>
   :small_blue_diamond: Vtex IO/CMS (e-commerce). <br>
-</p>
+</p>-->
 
 <p align="left">
   Este perfil apresenta projetos acadêmicos e estudos realizados de forma independente. Os projetos profissionais, por envolverem direitos de propriedade intelectual de clientes ou da empresa, permanecem privados ou armazenados em outros perfis/plataformas.
