@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Olá, sou um desenvolvedor full-stack atuando no mercado de e-commerce. 
+  Olá, sou um desenvolvedor full-stack (React • Node.js • TypeScript) 
 </p>
 <!-- 
 <p align="left">
