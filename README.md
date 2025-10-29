@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaugustomonteiro&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://www.pngarts.com/files/4/Notebook-Transparent-Background-PNG.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   Olá, sou um desenvolvedor full-stack (React • Node.js • TypeScript) 
