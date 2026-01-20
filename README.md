@@ -30,8 +30,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/marceloamonteiro/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" width="81" alt="Logo do LinkedIn" /></a>
-  <a href="mailto:marceelomonteeiro@hotmail.com" title="Outlook">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" width="135" alt="Logo do Outlook" /></a>
+  <a href="mailto:marceloamonteiro.dev@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" width="135" alt="Logo do Gmail" />
 </p>
 
 <!--<div style="display: inline_block;">
