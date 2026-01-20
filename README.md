@@ -6,7 +6,7 @@
 <img src="https://www.pngarts.com/files/4/Notebook-Transparent-Background-PNG.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Olá, sou um desenvolvedor full-stack (React • Node.js • TypeScript) 
+  Olá, sou um desenvolvedor full-stack (React • Node.js • Java) 
 </p>
 <!-- 
 <p align="left">
